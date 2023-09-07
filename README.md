@@ -1,2 +1,2 @@
 # lingdata
-The Varya Kormilitsyna`s repository
+The Varya Kormilitsyna`s repository for FaCL
